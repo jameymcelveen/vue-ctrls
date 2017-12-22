@@ -1,3 +1,6 @@
+# !! UNDER CONSTRUCTION !!
+Please give me a fe months to make this happen :)
+
 # [Vue][0] Controls
 Basic controls that work well with [Vue.js][0]
 
